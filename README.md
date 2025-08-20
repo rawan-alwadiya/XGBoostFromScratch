@@ -50,7 +50,6 @@ For the **Streamlit app**, feature names and target classes were **renamed for f
 - **Modeling**: Implemented **XGBoost from scratch**, covering:  
   - Gradient boosting framework  
   - Tree-based weak learners  
-  - Regularization
 - **Evaluation Metrics (from scratch)**:  
   - Accuracy  
   - Precision  
